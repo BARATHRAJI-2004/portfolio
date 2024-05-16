@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+#about {
+    background-image: url(OIP.jpg);
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f8f8f8;
@@ -99,8 +103,4 @@ footer {
 
 footer p {
     font-size: 1rem;
-}
-
-.demo {
-    background-image: url('OIP.jpg');
 }
