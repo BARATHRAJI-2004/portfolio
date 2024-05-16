@@ -6,10 +6,6 @@
     box-sizing: border-box;
 }
 
-#about {
-    background-image: url(OIP.jpg);
-}
-
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f8f8f8;
@@ -23,10 +19,10 @@ body {
 }
 
 header {
-    background-image: url(th.jpg);
-    background-repeat: no-repeat;
+    background-color: rgba(0, 28, 70, 0.867);
     color: #fff;
     padding: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
