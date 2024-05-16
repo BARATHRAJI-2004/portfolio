@@ -107,3 +107,7 @@ h4 {
     box-sizing: border-box;
     box-shadow: black;
 }
+
+img {
+    align-items: center;
+}
