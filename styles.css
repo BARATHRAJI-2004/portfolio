@@ -112,3 +112,16 @@ img {
     align-content: center;
     align-items: center;
 }
+
+a {
+    grid-row: 4id;
+    justify-content: right;
+    box-shadow: green 2px 2px 2px 2px;
+    border-radius: 10px;
+    text-decoration: none;
+    border-inline-start-color: blue;
+}
+
+a:hover {
+    box-shadow: blue 2px 2px 2px 2px;
+}
